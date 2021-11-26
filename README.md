@@ -13,7 +13,7 @@
     <br />
   </p>
   You can test the app using this APK directly
-  <a href="https://github.com/the-app-developer/flutter-todo/releases/tag/V1.0">
+  <a href="https://github.com/the-app-developer/flutter_todo/releases/tag/v1.0">
     Release APK
   </a>
   <br />
