@@ -103,4 +103,12 @@ or watch command in order to keep the source code synced automatically:
 flutter packages pub run build_runner watch
 ```
 
+**Step 4:**
+
+Setup Firebase and Move Firebase Json and Info.plist file as per the documentation:
+
+* [Firebase Setup](https://firebase.google.com/docs/flutter/setup?platform=ios)
+
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
